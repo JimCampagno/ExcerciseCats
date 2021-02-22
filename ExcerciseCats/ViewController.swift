@@ -1,18 +1,13 @@
-//
 //  ViewController.swift
 //  ExcerciseCats
-//
-//  Created by Jim Campagno on 2/21/21.
-//
+
 
 import UIKit
 import Combine
 
 class ViewController: UIViewController {
-
     let serviceProvider = ServiceProvider()
     var subscriptions = Set<AnyCancellable>()
-
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -28,7 +23,4 @@ class ViewController: UIViewController {
 
         // Do any additional setup after loading the view.
     }
-
-
 }
-
