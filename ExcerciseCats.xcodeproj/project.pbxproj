@@ -16,6 +16,7 @@
 		7D2C586F25E3405C001B5847 /* ExcerciseCatsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2C586E25E3405C001B5847 /* ExcerciseCatsTests.swift */; };
 		7D2C587A25E3405C001B5847 /* ExcerciseCatsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2C587925E3405C001B5847 /* ExcerciseCatsUITests.swift */; };
 		7D7850E125EAE66300302087 /* MessingAround.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7850E025EAE66300302087 /* MessingAround.swift */; };
+		7D7850EB25EB3D2200302087 /* Secrets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7850EA25EB3D2200302087 /* Secrets.swift */; };
 		7D90E8C325E35CCF00AB18DC /* NetworkingLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D90E8C225E35CCF00AB18DC /* NetworkingLayer.swift */; };
 /* End PBXBuildFile section */
 
@@ -52,6 +53,7 @@
 		7D2C587925E3405C001B5847 /* ExcerciseCatsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExcerciseCatsUITests.swift; sourceTree = "<group>"; };
 		7D2C587B25E3405C001B5847 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7D7850E025EAE66300302087 /* MessingAround.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessingAround.swift; sourceTree = "<group>"; };
+		7D7850EA25EB3D2200302087 /* Secrets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secrets.swift; sourceTree = "<group>"; };
 		7D90E8C225E35CCF00AB18DC /* NetworkingLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkingLayer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -112,6 +114,7 @@
 				7D2C586525E3405C001B5847 /* Info.plist */,
 				7D90E8C225E35CCF00AB18DC /* NetworkingLayer.swift */,
 				7D7850E025EAE66300302087 /* MessingAround.swift */,
+				7D7850EA25EB3D2200302087 /* Secrets.swift */,
 			);
 			path = ExcerciseCats;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7D2C585C25E3405C001B5847 /* ViewController.swift in Sources */,
+				7D7850EB25EB3D2200302087 /* Secrets.swift in Sources */,
 				7D90E8C325E35CCF00AB18DC /* NetworkingLayer.swift in Sources */,
 				7D7850E125EAE66300302087 /* MessingAround.swift in Sources */,
 				7D2C585825E3405C001B5847 /* AppDelegate.swift in Sources */,
